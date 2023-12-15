@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearnKoinMvvmRetroFitRoom</string>
+    <string name="apikey">AIzaSyDgKIGpXvPvkHvs9OIh7m08PU45Nyrl_uI</string>
+    <string name="gemini_pro">gemini-pro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="write_your_query">Write your query!</string>
+    <string name="go">Go</string>
+</resources>
